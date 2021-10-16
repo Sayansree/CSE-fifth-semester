@@ -29,16 +29,21 @@
   -  sample programs 
   -  interfacing
 # slides
- 1. Introduction to 8085 Microprocessor.pptx
- 2. Addressing mode of 8085.pptx
- 3. Introduction to MP.pptx
- 4. Stack in 8085.pptx
- 5. 8085 Assembly Language Programming.pptx
- 6. Subroutines in 8085.pptx
- 7. 8085 Instruction Set.pptx
- 8. Assembly Language ProgrammingTechniques.pptx
- 9. counter and time delay.pptx
- 10. Method of Data transfer.pptx
- 11. Interrupt Structure in 8085 MP.pptx
- 12. Introduction to 8086 microprocessor.pptx
- 13. Instuction Execution and Timing Diagram.pptx
+1. Introduction to 8085 Microprocessor.pptx
+2. Addressing mode of 8085.pptx
+    1. Direct Addressing Mode
+    2 Register Addressing Mode
+    3. Register Indirect Addressing Mode
+    4. Immediate Addressing Mode
+    5. Implicit Addressing Mode
+ 4. Introduction to MP.pptx
+ 5. Stack in 8085.pptx
+ 6. 8085 Assembly Language Programming.pptx
+ 7. Subroutines in 8085.pptx
+ 8. 8085 Instruction Set.pptx
+ 9. Assembly Language ProgrammingTechniques.pptx
+ 10. counter and time delay.pptx
+ 11. Method of Data transfer.pptx
+ 12. Interrupt Structure in 8085 MP.pptx
+ 13. Introduction to 8086 microprocessor.pptx
+ 14. Instuction Execution and Timing Diagram.pptx
